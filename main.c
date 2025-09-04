@@ -1,3 +1,12 @@
+/* Name: Rajab J Sunkad
+Date: 12/08/2025
+Project: Lexical Analyzer
+Description: A Lexical Analyzer (Lexer or Scanner) is the first phase of a compiler. Its main function is to read the source code 
+                (a sequence of characters) and convert it into a sequence of tokens, which are meaningful symbols used by the syntax 
+                analyzer (parser) in the next stage of compilation.
+                It acts as a bridge between the raw source code and the parser by breaking the program into keywords, identifiers, 
+                operators, literals, and punctuation symbols.
+*/
 #include <stdio.h>
 #include<string.h>
 #include "lexer.h" // Include your lexer header
